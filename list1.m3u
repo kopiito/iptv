@@ -7,7 +7,8 @@ http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b12
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 #EXTINF:-1,CHV
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
